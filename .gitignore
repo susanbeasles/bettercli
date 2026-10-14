@@ -19,3 +19,21 @@ target
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+.guard/logs/
+
+
+.agent-guard/policy.local.json
+
+
+.agent-guard/UNLOCK-*
+
+
+.agent-guard/__pycache__/
+
+
+.guard/hooks/__pycache__/
+
+
+.claude/settings.local.json
